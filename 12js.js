@@ -67,9 +67,7 @@
 
 // 16dars
 
-function name(params) {
-    
-}
+
 
 
 
