@@ -68,6 +68,25 @@
 // 16dars
 
 
+// 17-dars
+
+// const user = 'farrukhjon'
+// const m = 'ALHAMDULILLAH'
+// const arr = [1,2,3,4,5];
+// console.log(user.length);
+// console.log(arr.length);
+// console.log(user[1]);
+// console.log(arr[3]);
+// console.log(user.toUpperCase());
+// console.log(m.toLowerCase());
+// const user = 'hello word wow'
+// console.log(user.indexOf('w'));
+
+
+// 18-dars 
+
+
+
 
 
 
